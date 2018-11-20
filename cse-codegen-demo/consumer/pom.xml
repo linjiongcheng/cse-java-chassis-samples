@@ -36,7 +36,7 @@
                             <services>
                                 <service>
                                     <!--<appId>lala</appId>-->
-                                    <serviceName>provider</serviceName>
+                                    <serviceName>myprovider</serviceName>
                                     <packageName>com.huawei.paas.consumer</packageName>
                                     <schemaType>consumer</schemaType>
                                     <schemas>

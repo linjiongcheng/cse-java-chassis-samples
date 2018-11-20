@@ -35,7 +35,7 @@
                             <branch>master</branch>
                             <services>
                                 <service>
-                                    <serviceName>provider</serviceName>
+                                    <serviceName>myprovider</serviceName>
                                     <packageName>com.huawei.paas.provider</packageName>
                                     <schemaType>provider</schemaType>
                                     <schemas>
